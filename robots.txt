@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://turquoiselake.github.io/turquoiselake_github_io_zp532_10.txt
+Sitemap: https://turquoiselake.github.io/turquoiselake_github_io_zp532_15.txt
+Sitemap: https://turquoiselake.github.io/turquoiselake_github_io_zp532_2.txt
+Sitemap: https://turquoiselake.github.io/turquoiselake_github_io_zp532_24.txt
+Sitemap: https://turquoiselake.github.io/turquoiselake_github_io_zp532_5.txt
